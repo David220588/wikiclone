@@ -1,0 +1,70 @@
+header{
+    
+        }
+       
+        body{
+            
+            font-family: arial;
+            font-size: 14px;
+            font-family: 'Nunito', sans-serif, 600; 
+            margin: 0px;
+        }
+        h1{
+            
+            text-shadow: 6px 4px 4px;
+            font-size: 30px;
+        }
+    p{
+        line-height: 20px;
+        letter-spacing: 1px;
+    }
+    
+    ul{
+        display: inline-block;
+        float: right;
+        padding: 20px;
+    }
+    ul li{
+        display: inline-block;
+        
+
+    }
+    nav ul li a{
+        background-color: #78909c;
+        text-decoration: none;
+        padding: 20px;
+        color: black;
+    }
+
+    nav ul li a:hover{
+        color:white;
+    }
+    .logo{
+        width: 100px;
+    }
+    section{
+        width: 80%;
+        margin: auto;
+        min-height: 110vh;
+    }
+    footer{
+        background-color: #37474f;
+        height: 20vh;
+        color: azure;
+        
+    }
+    footer p{
+        text-align: right;
+        padding: 30px;
+    }
+
+    a{
+        color:inherit;
+    }
+    .card{
+        width: 48%;
+        margin: 1%;
+        float: left;
+        text-align: justify;
+
+    }
